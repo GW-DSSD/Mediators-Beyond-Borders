@@ -1,12 +1,12 @@
-### Mediators-Beyond-Borders
-#
- This is the repository for the MBBI Interactive Maps Project developed by the DSSD team. This project aims to create a series of interactive maps showcasing MBBI's global impact, allowing stakeholders and members to visualize the organization's work.
+# Mediators-Beyond-Borders
+
+# This is the repository for the MBBI Interactive Maps Project developed by the DSSD team. This project aims to create a series of interactive maps showcasing MBBI's global impact, allowing stakeholders and members to visualize the organization's work.
 
 ## Project Description
 The DSSD team collaborated with MBBI to define the purpose and requirements of the interactive maps, highlighting features such as embedded images and videos, initial text, and links to websites/articles. Esri's web based software ArcGIS was chosen for its functionality and accessibility, and the team designed the map interfaces in line with MBBI's marketing and branding styles.
 
 ## Objectives
-# Define Purpose and Requirements:
+### Define Purpose and Requirements:
 
 Assist MBBI in defining the purpose and requirements of the interactive map.
 Include features like embedded images and videos, initial text, and links to websites/articles.
@@ -35,5 +35,5 @@ For any questions or issues, contact the DSSD team or raise an issue in the repo
 GWU DSSD Team
 MBBI Team
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
