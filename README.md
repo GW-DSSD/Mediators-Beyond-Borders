@@ -28,7 +28,7 @@ The DSSD team collaborated with MBBI to define the purpose and requirements of t
 ## Getting Started
 To get started with the project, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/mbbi-interactive-maps.git
+- Clone the repository: git clone https://github.com/GW-DSSD/Mediators-Beyond-Borders.git
 - For any questions or issues, contact the DSSD team or raise an issue in the repository.
 
 ## Contributors
