@@ -12,16 +12,16 @@ Assist MBBI in defining the purpose and requirements of the interactive map.
 Include features like embedded images and videos, initial text, and links to websites/articles.
 Explore the potential inclusion of a paywall or login credentials for specific information.
 
-# Select Mapping Platform:
+### Select Mapping Platform:
 Decide on a mapping platform that provides the functionality and accessibility MBBI requires.
 Choose Esri's web based software ArcGIS  due to its ease of use.
 
-# Interface Design:
+### Interface Design:
 Handle the design of the interface with feedback from MBBI.
 Design an interactive map that MBBI can easily update.
 Utilize MBBI marketing and branding styles.
 
-# Documentation and Training:
+### Documentation and Training:
 Develop tutorial/handbook write-up for the map updating process.
 Provide training and documentation for MBBI to manage and update the maps.
 
