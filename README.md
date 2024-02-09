@@ -8,32 +8,32 @@ The DSSD team collaborated with MBBI to define the purpose and requirements of t
 ## Objectives
 ### Define Purpose and Requirements:
 
-Assist MBBI in defining the purpose and requirements of the interactive map.
-Include features like embedded images and videos, initial text, and links to websites/articles.
-Explore the potential inclusion of a paywall or login credentials for specific information.
+- Assist MBBI in defining the purpose and requirements of the interactive map.
+- Include features like embedded images and videos, initial text, and links to websites/articles.
+- Explore the potential inclusion of a paywall or login credentials for specific information.
 
 ### Select Mapping Platform:
-Decide on a mapping platform that provides the functionality and accessibility MBBI requires.
-Choose Esri's web based software ArcGIS  due to its ease of use.
+- Decide on a mapping platform that provides the functionality and accessibility MBBI requires.
+- Choose Esri's web based software ArcGIS  due to its ease of use.
 
 ### Interface Design:
-Handle the design of the interface with feedback from MBBI.
-Design an interactive map that MBBI can easily update.
-Utilize MBBI marketing and branding styles.
+- Handle the design of the interface with feedback from MBBI.
+- Design an interactive map that MBBI can easily update.
+- Utilize MBBI marketing and branding styles.
 
 ### Documentation and Training:
-Develop tutorial/handbook write-up for the map updating process.
-Provide training and documentation for MBBI to manage and update the maps.
+- Develop tutorial/handbook write-up for the map updating process.
+- Provide training and documentation for MBBI to manage and update the maps.
 
 ## Getting Started
 To get started with the project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/mbbi-interactive-maps.git
-For any questions or issues, contact the DSSD team or raise an issue in the repository.
+- Clone the repository: git clone https://github.com/your-username/mbbi-interactive-maps.git
+- For any questions or issues, contact the DSSD team or raise an issue in the repository.
 
 ## Contributors
-GWU DSSD Team
-MBBI Team
+- GWU DSSD Team
+- MBBI Team
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
+This project is licensed under the MIT License. 
